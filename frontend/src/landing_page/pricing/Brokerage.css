@@ -1,0 +1,61 @@
+/* Container styling */
+.container {
+  font-family: 'Inter', sans-serif;
+  color: #212121;
+}
+
+/* Heading */
+.charges-subheadings {
+  font-size: 1.5rem;
+  /* font-weight: 600; */
+  text-align: left;
+}
+
+/* Table layout */
+.table-container {
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 0 3px rgba(0,0,0,0.05);
+}
+
+/* Table core styles */
+.charges-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.charges-table th{
+  padding: 12px 20px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+.charges-table td {
+  padding: 12px 20px;
+  text-align: left;
+}
+
+/* Header row */
+.charges-table thead {
+  background-color: #fafafa;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Alternate row shading */
+.charges-table tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+/* "FREE" tag styling */
+.free-tag {
+  background-color: #4CAF50;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
