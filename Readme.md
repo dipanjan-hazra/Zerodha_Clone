@@ -1,43 +1,45 @@
-# 🚀ZIRODHA CLONE 
+## 🚀 ZERODHA CLONE
 
-CLONING  Dashboard  and  Kite  of  Zirodha  for  Showcase  React  skill --  Compleatly  based  on  MERN STACK 
+Cloning Dashboard and Kite of Zerodha to showcase React skills. Completely based on the MERN stack.
 
-🔵 A modern stock trading UI clone built with React, showcasing real-time charts and responsive design.
+🔵 A modern stock trading UI clone built with React, featuring responsive design and trading-style dashboards.
 
+---
 
-Project UI --- 
-    
-    #### HOME  PAGE OF  DASHBOARD
-    <img src="./IMG/home.png">
+## 📸 Project UI
 
-    #### Pricing Layout 
-    <img src="./2.png">
+#### 🏠 Home Page of Dashboard
+![Home](./IMG/home.png)
 
-    ####Support layout  
-    <img src="./IMG/Support.png">
+#### 💰 Pricing Layout
+![Pricing](./IMG/2.png)
 
-    <h1> KITE - </h1>
-    <img src="./IMG/Kite.png">
+#### 🛟 Support Layout
+![Support](./IMG/Support.png)
 
-    #### HOLDINGS
-    <img src="./IMG/Holdings.png">
+#### 📈 Kite Interface
+![Kite](./IMG/Kite.png)
 
+#### 📊 Holdings
+![Holdings](./IMG/Holdings.png)
 
-    FILE STRUCTURE 
-    <img src="./IMG/3.png">
+---
 
+## 🗂 File Structure
+![Structure](./IMG/3.png)
 
-<h2> Tech STACK --</h2>
+---
 
-    **Frontend**
+## 🛠 Tech Stack
+
+### Frontend
 - React.js
 - Vite / Create React App
 - Tailwind CSS / CSS
 
-**Backend (if any)**
+### Backend
 - Node.js
-- Express
+- Express.js
 
-**Database**
+### Database
 - MongoDB / Firebase
-
