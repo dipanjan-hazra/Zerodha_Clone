@@ -7,24 +7,24 @@ CLONING  Dashboard  and  Kite  of  Zirodha  for  Showcase  React  skill --  Comp
 
 Project UI --- 
     
-    <h4> HOME  PAGE OF  DASHBOARD</h4>
-    <img src="/IMG/Screenshot 2026-01-29 145940.png">
+    #### HOME  PAGE OF  DASHBOARD
+    <img src="./IMG/home.png">
 
-    <h4> Pricing Layout </h4>
-    <img src="/IMG/Screenshot 2026-01-29 150011.png">
+    #### Pricing Layout 
+    <img src="./2.png">
 
-    <h4>Support layout  </h4>
-    <img src="/IMG/Support.png">
+    ####Support layout  
+    <img src="./IMG/Support.png">
 
     <h1> KITE - </h1>
-    <img src="/IMG/Kite.png">
+    <img src="./IMG/Kite.png">
 
-    <h4> HOLDINGS</h4>
-    <img src="/IMG/Holdings.png">
+    #### HOLDINGS
+    <img src="./IMG/Holdings.png">
 
 
     FILE STRUCTURE 
-    <img src="/IMG/Screenshot 2026-01-29 151205.png">
+    <img src="./IMG/3.png">
 
 
 <h2> Tech STACK --</h2>
